@@ -1,0 +1,8 @@
+[camera]
+output_mmap = cfg/camera_acA720-520um_landscape.xml
+settings_mmap = cfg/camera_settings.xml
+transpose_image = False
+flip_x = False
+flip_y = True
+serial_number = 40061901
+slave = True
